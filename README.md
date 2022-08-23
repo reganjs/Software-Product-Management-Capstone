@@ -13,5 +13,5 @@ Week 5: Update the risk plan, client demo, create a release plan for week five, 
 
 Week 6: The final week! Discuss a loose cannon situation, produce client demo. Release the final burndown chart and release the product. Provide information on project retrospective. Capstone completed. 
 
-![](https://image.shutterstock.com/image-vector/blue-gold-certificate-achievement-border-600w-1477404566.jpg)
+
 
