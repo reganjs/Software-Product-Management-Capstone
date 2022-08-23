@@ -12,3 +12,5 @@ Week 4: Write acceptance tests and critera, standup meetings, client demo, relea
 Week 5: Update the risk plan, client demo, create a release plan for week five, release a burndown chart for sprint two, and produce an iteration plan for sprint three. 
 
 Week 6: The final week! Discuss a loose cannon situation, produce client demo. Release the final burndown chart and release the product. Provide information on project retrospective. Capstone completed. 
+
+ [Coursera XYZA5XCR66SN.pdf](https://github.com/reganjs/Software-Product-Management-Capstone/files/9410734/Coursera.XYZA5XCR66SN.pdf)
