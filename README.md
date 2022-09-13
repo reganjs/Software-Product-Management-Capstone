@@ -14,4 +14,5 @@ Week 5: Update the risk plan, client demo, create a release plan for week five, 
 Week 6: The final week! Discuss a loose cannon situation, produce client demo. Release the final burndown chart and release the product. Provide information on project retrospective. Capstone completed. 
 
 
-
+*** If you wish to view all of the documents that I created throughout this capstone project, please view the University of Alberta PDF ***
+*** The pdf file contains over 30 pages, please select see more pages at the bottom of Github after scrolling through 8-19 pages ***
